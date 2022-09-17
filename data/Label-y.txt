@@ -1,3 +1,4 @@
+flg	len	text
 0	246	患者は methylprednisolone（静脈内、1 g、1 日 1 回、使用理由：有害事象）、prednisolone（経口、50 mg、1 日 1 回、使用理由：有害事象）、bisoprolol（投与量・ 投与回数：不明、使用理由：有害事象）、spironolactone（投与量・ 投与回数：不 明、使用理由：有害事象）、enalapril（投与量・ 投与回数：不明、使用理由：有害事象）及び amiodarone（投与量・ 投与回数：不明、使用理由：有害事象）による治療を受けた。
 0	217	患者はfamotidine（静脈内、20 mg、2021 年）、chlorphenamine maleate (Chlorpheniramine C)（静脈内、5 mg、2021 年）、 metoclopramide（静脈内、10 mg、2021 年）、 methylprednisolon（静脈内、80 mg、2021 年）及び adrenaline（Epinephrine、筋肉内、0.3 mg、2021 年）による治療を受けた。
 0	172	併用被疑薬として、エラソメラン（スパイクバックス筋注） （注射剤）（使用理由：ＣＯＶＩＤ－１９ワクチン接種）及びラナデルマブ（遺伝子組換え）（タクザイロ皮下注 300mg シリンジ）（注射用液剤）（使用理由：遺伝性血管浮腫３型）を投与され、他社併用被疑薬として、ベロトラルスタット塩酸塩 （オラデオ）（カプセル）（使用理由：不明）を投与された。
